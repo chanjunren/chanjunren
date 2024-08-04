@@ -1,3 +1,3 @@
-<img src="assets/banner.jpg" width="100%">
+<img src="assets/maito_gai.gif" width="100%">
 
 > Memento Mori
