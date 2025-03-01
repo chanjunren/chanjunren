@@ -1,1 +1,1 @@
-> Memento Mori
+> memento mori
